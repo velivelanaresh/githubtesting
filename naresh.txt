@@ -1,2 +1,2 @@
 this is first code
-this is second code updated
+this is updated code
